@@ -21,8 +21,7 @@ This repository provides a clear explanation of L1 and L2 regularization techniq
 * [Elastic Net (Combination of L1 and L2)](#elastic-net-combination-of-l1-and-l2)
 * [Practical Considerations](#practical-considerations)
 * [Further Resources](#further-resources)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ## What is Regularization?
 
@@ -129,10 +128,6 @@ where $\lambda_1$ and $\lambda_2$ are the regularization strengths for L1 and L2
 * [Andrew Ng's lectures on regularization (Coursera)](https://www.coursera.org/learn/machine-learning)
 * Relevant blog posts and articles on regularization techniques in machine learning.
 
-## Contributing
 
-Contributions to this explanation and any related code examples are welcome. Please feel free to open issues or submit pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
